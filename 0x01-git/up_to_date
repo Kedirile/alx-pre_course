@@ -1,3 +1,6 @@
 git pull
+<<<<<<< HEAD
 git add up_to_date
 "How to be up to date in git"
+=======
+>>>>>>> 0ba8767513f38c57a0b4809bcf6d2dfbc81b7b73
